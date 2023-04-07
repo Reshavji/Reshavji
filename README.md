@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar997&label=Profile%20views&color=0e75b6&style=flat" alt="reshavji" /> </p>
 
-<p align="left"> <a href="https://twitter.com/reshavji9837" target="blank"><img src="https://img.shields.io/twitter/follow/rajeshk22143332?logo=twitter&style=for-the-badge" alt="reshavji9837" /></a> </p>
+<p align="left"> <a href="https://twitter.com/reshavji9837" target="blank"><img src="https://img.shields.io/twitter/follow/reshavji9837?logo=twitter&style=for-the-badge" alt="reshavji9837" /></a> </p>
 
 - 🔭 I’m currently working on **to improve my coding skills.**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JAVA/HTML/CSS/JAVASCRIPT/REACT.JS**
 
-- 📫 How to reach me **rajekumar7589@gmail.com**
+- 📫 How to reach me **reshavkumar9837@gmail.com**
 <br />
 
 <h3 align="center">Connect with me:</h3>
