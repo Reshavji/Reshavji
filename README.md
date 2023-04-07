@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reshav kumar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar997&label=Profile%20views&color=0e75b6&style=flat" alt="reshavji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Reshavji&label=Profile%20views&color=0e75b6&style=flat" alt="reshavji" /> </p>
 
 <p align="left"> <a href="https://twitter.com/reshavji9837" target="blank"><img src="https://img.shields.io/twitter/follow/reshavji9837?logo=twitter&style=for-the-badge" alt="reshavji9837" /></a> </p>
 
